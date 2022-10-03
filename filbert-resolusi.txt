@@ -1,3 +1,4 @@
 Filbert Resolusi
 - Lolos intern
 - Bisa kontribusi di project SBS
+- Lebih proficient dalam C#
