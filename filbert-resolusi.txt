@@ -1,5 +1,6 @@
 Filbert Resolusi
 - Bisa kontribusi di project SBS
 - Lebih proficient dalam C#
-- Mahir menggunakan Guna UI
+  * Lebih memahami konsep JSON
 - Olahraga rutin
+  * Futsal
