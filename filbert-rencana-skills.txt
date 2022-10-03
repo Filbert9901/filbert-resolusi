@@ -1,0 +1,6 @@
+RENCANA SKILLS FILBERT
+
+- C#
+- GUNA UI
+- RabbitMQ
+- MVP Design Pattern
