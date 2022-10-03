@@ -6,3 +6,4 @@ Filbert Resolusi
 - Olahraga rutin
   * Badmin
 - Rutin mengerjakan soal Codewars
+
