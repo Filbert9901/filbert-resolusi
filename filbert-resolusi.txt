@@ -1,6 +1,9 @@
 Filbert Resolusi
 - Bisa kontribusi di project SBS
 - Lebih proficient dalam C#
-  * Lebih memahami konsep JSON
+  * Lebih memahami konsep OOP
+- Mahir menggunakan Guna UI
 - Olahraga rutin
-  * Futsal
+  * Badmin
+- Rutin mengerjakan soal Codewars
+
