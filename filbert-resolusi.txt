@@ -5,3 +5,4 @@ Filbert Resolusi
 - Mahir menggunakan Guna UI
 - Olahraga rutin
   * Badmin
+- Rutin mengerjakan soal Codewars
