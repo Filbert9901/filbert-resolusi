@@ -2,5 +2,7 @@ RENCANA SKILLS FILBERT
 
 - C#
 - GUNA UI
+  * Membuat windows form yang keren
 - RabbitMQ
+  * Lebih memahami lagi konsep Consumer pada RabbitMQ
 - MVP Design Pattern
